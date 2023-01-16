@@ -70,6 +70,12 @@
 .box i {
   margin-bottom: 10px;
 }
+
+.clr {
+  clear: both;
+}
+
+
 /* Main styling */
 
 html,
@@ -176,4 +182,11 @@ p {
 
 #home-info .info-content p {
   padding-bottom: 30px;
+}
+
+#main-footer {
+  text-align: center;
+  background-color: #444;
+  color: #fff;
+  padding: 20px;
 }
